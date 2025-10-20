@@ -22,3 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hokkabas&show_icons=true&locale=en" alt="hokkabas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hokkabas&" alt="hokkabas" /></p>
+
+
+![snake gif](https://github.com/Hokkabas/Hokkabas/blob/output/github-contribution-grid-snake.gif)
